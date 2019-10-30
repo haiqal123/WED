@@ -18,7 +18,7 @@ public class JavaApplication1 {
         // TODO code application logic here
         
         String name = "pokemon";
-        System.out.println("Hello\n" + name);
+        System.out.println("Hello\t" + name);
     }
     
 }
